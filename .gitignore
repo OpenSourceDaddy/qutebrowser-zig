@@ -16,3 +16,6 @@ zig-out/
 /build/
 /build-*/
 /docgen_tmp/
+zig-linux-x86_64-0.12.0
+zig-linux-x86_64-0.12.0.tar.xz
+zig-linux-x86_64-0.12.0.tar
